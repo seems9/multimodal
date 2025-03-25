@@ -1,4 +1,4 @@
-# multimodal
+# Multimodal Receipt Processing with Gemini and Qdrant
 Multimodal Receipt Processing with Gemini and Qdrant
 Overview
 
